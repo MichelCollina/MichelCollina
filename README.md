@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=collina.michel.23&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=collina.michel.23&redirect=true)
+
 <!--
 **MichelCollina/MichelCollina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
