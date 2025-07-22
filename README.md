@@ -1,8 +1,10 @@
 <div style="min-width:50%; margin: auto; display: block; text-align:center;">
-    <h2 style="text-align:center;">Hello there! 👋 </h2>
+    <a style="text-align:center; width:100%" href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=22&duration=1500&pause=3500&color=51BC4C&center=true&vCenter=true&width=450&lines=Hello+there!+%F0%9F%91%8B;I'm+Michel+Collina+%F0%9F%A4%93;But+you+can+call+me+Mike+%F0%9F%98%8E;I+like+to+code+stuff++%F0%9F%92%BB;Preferably+with+some+coffee%E2%98%95" alt="Typing SVG" />
+    </a>
+    <hr>
     <img style="width:150px;" src="https://imgur.com/GPVO4IP.gif">  
 </div>
-
 <br>
 <br>
 
