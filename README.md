@@ -1,23 +1,24 @@
-<div style="min-width:50%; margin: auto; display: block; text-align:center;">
-    <a style="text-align:center; width:100%" href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=22&duration=1500&pause=3500&color=51BC4C&center=true&vCenter=true&width=450&lines=Hello+there!+%F0%9F%91%8B;I'm+Michel+Collina+%F0%9F%A4%93;But+you+can+call+me+Mike+%F0%9F%98%8E;I+like+to+code+stuff++%F0%9F%92%BB;Preferably+with+some+coffee%E2%98%95" alt="Typing SVG" />
+<div>
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=22&duration=1500&pause=3500&color=51BC4C&vCenter=true&width=450&lines=Hello+there!+%F0%9F%91%8B;I'm+Michel+Collina+%F0%9F%A4%93;But+you+can+call+me+Mike+%F0%9F%98%8E;I+like+to+code+stuff++%F0%9F%92%BB;Preferably+with+some+coffee%E2%98%95" alt="Typing SVG" />
     </a>
-    <hr>
+    <br>
     <img style="width:150px;" src="https://imgur.com/GPVO4IP.gif">  
 </div>
-<br>
+
+<hr>
 <br>
 
-<img style="margin: auto; display: block; text-align:center;" src="https://spotify-github-profile.kittinanx.com/api/view?uid=collina.michel.23&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/collina.michel.23">
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=collina.michel.23&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/collina.michel.23">
 
 <!-- [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=collina.michel.23&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/collina.michel.23) -->
 
-<br>
+<hr>
 <br>
 
-<h4 style="text-align:center;">🛠️ TECH STACK 💻 </h4>
+<h4>🛠️ TECH STACK 💻 </h4>
 
-<table style="min-width:50%; margin-left: auto; margin-right:auto;">
+<table>
     <tr>
         <th><img src="https://img.shields.io/badge/Unity-000000?logo=unity&logoSize=auto"></th>
         <th><img src="https://img.shields.io/badge/Unreal-000000?logo=unrealengine&logoSize=auto"></th>
@@ -38,7 +39,7 @@
 
 <br>
 
-<table style="min-width:50%; margin-left: auto; margin-right:auto;">
+<table>
     <tr>
         <th><img src="https://skillicons.dev/icons?i=c"></th>
         <th><img src="https://skillicons.dev/icons?i=cpp"></th>
@@ -57,7 +58,6 @@
     </tr>
 </table>
 
-
 <br>
 <br>
 
@@ -67,11 +67,11 @@
 [![LANGUAGES&LIBRARY](https://skillicons.dev/icons?i=c,cpp,cs,dotnet,html,css,js,jquery,nodejs,php,py,java&perline=6)](https://skillicons.dev) -->
 
 
-<h4 style="text-align:center;">📖 LEARNING ✍🏻</h4>
+<h4>📖 LEARNING ✍🏻</h4>
 
 
 
-<table style="min-width:50%; margin-left: auto; margin-right:auto;">
+<table>
     <tr>
         <th><img src="https://skillicons.dev/icons?i=graphql"></th>
         <th><img src="https://skillicons.dev/icons?i=discord"></th>
@@ -93,7 +93,7 @@
 <br>
 
 
-<img style="margin: auto; display: block; text-align:center;" src="https://wakatime.com/badge/user/6033a377-11f0-46e7-94b5-b18325b60e4e.svg?style=for-the-badge">
+<img src="https://wakatime.com/badge/user/6033a377-11f0-46e7-94b5-b18325b60e4e.svg?style=for-the-badge">
 
 
 <!-- 
